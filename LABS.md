@@ -14,7 +14,7 @@ Then — components cooperate
 End — reconstruct and reason about the whole system
 ```
 
-The five current labs are:
+The five current system-building labs are:
 
 1. [Appointment Booking System](docs/apprenticeship/labs/01-appointment-booking.md)
 2. [Package Delivery Tracker](docs/apprenticeship/labs/02-package-delivery.md)
@@ -22,4 +22,14 @@ The five current labs are:
 4. [Smart Building Access System](docs/apprenticeship/labs/04-building-access.md)
 5. [Restaurant Order System](docs/apprenticeship/labs/05-restaurant-orders.md)
 
-The objective is for the apprentice to experience the same engineering principles across different domains until they stop thinking in isolated files and begin seeing systems, contracts, boundaries, evidence, and human outcomes.
+## Repository Control Specialization
+
+A separate operator-focused course teaches Git, GitHub collaboration, repository state, branch discipline, pull requests, CI evidence, deployability, and Docker runtime identity:
+
+- [Git Repository Control — The Operator's Apprenticeship](docs/apprenticeship/git-repository-control/README.md)
+- [Repository Control Command Reference](docs/apprenticeship/git-repository-control/COMMAND_REFERENCE.md)
+- [Dirty Worktree to Verified Deployment Lab](docs/apprenticeship/git-repository-control/LAB.md)
+
+This specialization trains the apprentice to answer, with commands and evidence, what branch they are on, whether the working tree is clean, whether GitHub changed, whether history diverged, whether a fix is isolated, whether tests truly passed, what will be pushed, whether a PR is safe to merge, whether `main` is deployable, and whether Docker is actually running the intended code.
+
+The objective across all apprenticeship work is for the student to stop thinking in isolated files and begin seeing systems, contracts, boundaries, evidence, repository state, runtime state, and human outcomes.
