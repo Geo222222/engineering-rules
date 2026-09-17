@@ -7,6 +7,8 @@
 **Version:** 1.0 — pre-submission manuscript  
 **Date:** September 17, 2026  
 
+[← Research index](README.md)
+
 > **Status note:** This is a scholarly working paper prepared for public review and later journal adaptation. It synthesizes existing empirical literature and proposes a conceptual framework. It does **not** report original human-subjects research, and it should not be represented as peer reviewed unless and until it completes peer review.
 
 ---
@@ -139,6 +141,8 @@ This matters for an anger-threat analysis because it establishes the **baseline 
 
 Salerno et al. (2019) then show what can happen when emotion enters the interaction. In their group-decision experiment, African American participants expressing anger lost influence relative to otherwise identical no-anger conditions, while anger did not produce the same loss for White participants. The finding suggests that a Black professional confronting a bad decision, unfair treatment, ethical breach, or operational failure may face an additional burden: the argument can become less influential precisely when the emotion communicates that the issue matters.
 
+Workplace sociology adds qualitative evidence about the rules surrounding emotion. Wingfield (2007) directly examined Black professionals’ experiences with gendered racism using the paired figures of the “modern mammy” and the “angry Black man.” Wingfield (2010) later argued that professional workplaces contain racialized feeling rules—expectations about which emotions may be displayed, by whom, and with what consequences. These studies do not establish a universal response across all workplaces, but they provide direct evidence that Black professionals themselves describe emotion management as shaped by race and gender.
+
 This creates a professional dilemma familiar to many racialized workers: how direct can one be before “direct” becomes “aggressive”? How firm can one be before “firm” becomes “hostile”? How visibly frustrated can one be before the substantive issue is displaced by a discussion of tone?
 
 The empirical literature does not justify assuming that every criticism of tone is racially motivated. It does justify examining whether supposedly neutral judgments of professionalism are behaviorally anchored, consistently applied, and auditable across race and gender.
@@ -151,7 +155,7 @@ If a person expects their anger to be overperceived or punished, emotional self-
 
 Black men may respond by speaking more softly, smiling more, reducing gestures, avoiding disagreement, changing clothing, managing posture, creating physical distance, overexplaining intent, suppressing frustration, or leaving situations that feel likely to escalate. These strategies can be understood as forms of **anticipatory threat management**: behavior designed not because the individual is dangerous, but because the individual expects to be read as dangerous.
 
-Ethnographic research complicates the picture in useful ways. Jackson (2013), studying Black college men, found that Black men did not simply avoid anger; in some contexts, group leaders strategically displayed anger to encourage what they understood as respectable masculine behavior and to challenge conduct they believed reinforced harmful stereotypes. The finding is important because it rejects a simplistic model in which Black men are only passive recipients of stereotype pressure. They also interpret, resist, negotiate, and sometimes strategically deploy emotion.
+Ethnographic research complicates the picture in useful ways. Jackson and Harvey Wingfield (2013), studying Black college men, found that Black men did not simply avoid anger; in some contexts, group leaders strategically displayed anger to encourage what they understood as respectable masculine behavior and to challenge conduct they believed reinforced harmful stereotypes. The finding is important because it rejects a simplistic model in which Black men are only passive recipients of stereotype pressure. They also interpret, resist, negotiate, and sometimes strategically deploy emotion.
 
 The broader point is that racialized emotion norms can create **emotional labor**. The Black man is not only managing what he feels. He may also be managing how another person is likely to racialize what he feels.
 
@@ -358,7 +362,7 @@ Hoffman, K. M., Trawalter, S., Axt, J. R., & Oliver, M. N. (2016). Racial bias i
 
 Hugenberg, K., & Bodenhausen, G. V. (2003). Facing prejudice: Implicit prejudice and the perception of facial threat. *Psychological Science, 14*(6), 640–643. https://doi.org/10.1046/j.0956-7976.2003.psci_1478.x
 
-Jackson, B. A. (2013). Getting angry to get ahead: Black college men, emotional performance, and encouraging respectable masculinity. *Symbolic Interaction, 36*(3), 275–292. https://doi.org/10.1002/symb.63
+Jackson, B. A., & Harvey Wingfield, A. (2013). Getting angry to get ahead: Black college men, emotional performance, and encouraging respectable masculinity. *Symbolic Interaction, 36*(3), 275–292. https://doi.org/10.1002/symb.63
 
 Pager, D. (2003). The mark of a criminal record. *American Journal of Sociology, 108*(5), 937–975. https://doi.org/10.1086/374403
 
@@ -369,6 +373,10 @@ Salerno, J. M., Peter-Hagene, L. C., & Jay, A. C. V. (2019). Women and African A
 Trawalter, S., Hoffman, K. M., & Waytz, A. (2012). Racial bias in perceptions of others’ pain. *PLOS ONE, 7*(11), e48546. https://doi.org/10.1371/journal.pone.0048546
 
 Wilson, J. P., Hugenberg, K., & Rule, N. O. (2017). Racial bias in judgments of physical size and formidability: From size to threat. *Journal of Personality and Social Psychology, 113*(1), 59–80. https://doi.org/10.1037/pspi0000092
+
+Wingfield, A. H. (2007). The modern mammy and the angry Black man: African American professionals’ experiences with gendered racism in the workplace. *Race, Gender & Class, 14*, 196–212.
+
+Wingfield, A. H. (2010). Are some emotions marked “Whites only”? Racialized feeling rules in professional workplaces. *Social Problems, 57*(2), 251–268. https://doi.org/10.1525/sp.2010.57.2.251
 
 ---
 
@@ -389,3 +397,7 @@ Before formal journal submission, this manuscript should receive the following u
 5. Add a formal positionality statement if required by the target journal.
 6. Select a target journal and restyle the manuscript to that journal’s author guidelines.
 7. Submit the proposed Racialized Anger-Threat Loop as a conceptual model to empirical falsification rather than presenting it as established fact.
+
+---
+
+[← Research index](README.md)
